@@ -1,0 +1,1 @@
+CREATE database collection_api;
